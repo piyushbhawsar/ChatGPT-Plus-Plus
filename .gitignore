@@ -3,3 +3,7 @@ index.html
 index.css
 env.js
 .DS_Store
+
+
+./node_modules
+node_modules
