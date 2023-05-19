@@ -13,7 +13,6 @@ const openai = new OpenAIApi(configuration)
 const appSettings = {
     databaseURL: "https://chatgpt-pro-31637-default-rtdb.asia-southeast1.firebasedatabase.app/"
 }
-
 const app = initializeApp(appSettings)
 
 const database = getDatabase(app)
@@ -24,7 +23,7 @@ const chatbotConversation = document.getElementById('chatbot-conversation')
 
 const instructionObj = {
     role: 'system',
-    content: 'You are a helpful assistant.'
+    content: 'You are a helpful,funny and very genius assistant.'
 }
 
 document.addEventListener('submit', (e) => {
