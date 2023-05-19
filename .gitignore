@@ -1,8 +1,8 @@
 
 ./node_modules
 node_modules
-index.html
-index.css
-env.js
+# index.html
+# index.css
+# env.js
 .DS_Store
 .gitignore
