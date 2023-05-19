@@ -7,3 +7,10 @@ env.js
 
 ./node_modules
 node_modules
+./index.html
+index.html
+index.css
+./index.css
+./env.js
+env.js
+.DS_Store
